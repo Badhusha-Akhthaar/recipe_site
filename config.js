@@ -1,9 +1,9 @@
 var config = {
-    apiKey: "AIzaSyCy8iaGm3ewx4SPd-QmYRoBNl91Nr6vbFI",
+    apiKey: "xxxxxxxxxxxxxxxxxx-xxxxxxxxxxxx",
     authDomain: "badhusha-project.firebaseapp.com",
     databaseURL: "https://badhusha-project.firebaseio.com",
     projectId: "badhusha-project",
     storageBucket: "badhusha-project.appspot.com",
-    messagingSenderId: "605385137665"
+    messagingSenderId: "yyyyyyyyyyy"
   };
   firebase.initializeApp(config);
